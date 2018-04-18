@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "node-exiftool": "^2.3.0"
+  },
+  "name": "pdfgetmet",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:maclover7/pdfgetmet.git",
+  "author": "Jon Moss <me@jonathanmoss.me>",
+  "license": "MIT",
+  "bin": {
+    "pdfgetmet": "index.js"
+  }
+}
